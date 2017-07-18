@@ -1,0 +1,11 @@
+# SQL drivers for unit tests
+psycopg2
+pymysql
+
+# Unit tests
+green
+coverage
+
+# Building docs
+sphinx
+sphinx_rtd_theme
